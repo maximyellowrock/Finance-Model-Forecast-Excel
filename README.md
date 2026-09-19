@@ -8,7 +8,7 @@ The model is designed to demonstrate practical **FP&A, financial modelling, acco
 
 ## Executive Summary
 
-![Executive Summary](screenshots/executive-summary.png)
+![Executive Summary](screenshots/executive.png)
 
 The model starts with a 2026 actual/base year and forecasts financial performance through **2031E**.
 
@@ -110,7 +110,7 @@ This allows the model to be used for sensitivity analysis and financial planning
 
 ## Income Statement
 
-![Income Statement](screenshots/income-statement.png)
+![Income Statement](screenshots/incomestatement.png)
 
 The Income Statement forecasts:
 
@@ -136,7 +136,7 @@ The forecast is driven directly by assumptions selected in the scenario engine.
 
 ## Balance Sheet
 
-![Balance Sheet](screenshots/balance-sheet.png)
+![Balance Sheet](screenshots/balancesheet.png)
 
 The Balance Sheet includes:
 
@@ -166,7 +166,7 @@ Working capital balances are calculated using operational drivers such as **DSO,
 
 ## Cash Flow Statement
 
-![Cash Flow Statement](screenshots/cash-flow-statement.png)
+![Cash Flow Statement](screenshots/cashflow.png)
 
 The Cash Flow Statement is linked directly to the Income Statement and Balance Sheet.
 
@@ -194,7 +194,7 @@ Ending cash automatically flows back into the Balance Sheet.
 
 ## Financial Ratios & KPIs
 
-![Ratios & KPIs](screenshots/ratios-kpis.png)
+![Financial Ratios & KPIs](screenshots/ratio.png)
 
 The model calculates key financial metrics including:
 
@@ -214,7 +214,7 @@ The sheet also includes automated model integrity checks.
 
 ## Monthly Forecast
 
-![Monthly Forecast](screenshots/monthly-forecast.png)
+![Monthly Forecast](screenshots/monthly.png)
 
 The annual 2027 Base Budget is converted into a 12-month operating forecast.
 
@@ -238,8 +238,7 @@ The monthly totals are automatically reconciled against the annual budget.
 
 ## Actual vs Budget vs Latest Estimate
 
-![Actual vs Budget vs Forecast](screenshots/actual-vs-budget-forecast.png)
-
+![Actual vs Budget vs Forecast](screenshots/actualbudget.png)
 This section adds an FP&A-style performance monitoring layer.
 
 Users can enter actual monthly results for:
