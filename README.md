@@ -81,7 +81,7 @@ Cash Flow Ending Cash = Balance Sheet Cash
 
 ## Scenario Analysis
 
-![Assumptions](screenshots/assumptions.png)
+![Assumptions](./Finance%20Model-Forecast-Excel/Screenshots/assumptions.png)
 
 The model includes three operating scenarios:
 
@@ -110,7 +110,7 @@ This allows the model to be used for sensitivity analysis and financial planning
 
 ## Income Statement
 
-![Income Statement](screenshots/incomestatement.png)
+![Income Statement](./Finance%20Model-Forecast-Excel/Screenshots/incomestatement.png)
 
 The Income Statement forecasts:
 
@@ -136,7 +136,7 @@ The forecast is driven directly by assumptions selected in the scenario engine.
 
 ## Balance Sheet
 
-![Balance Sheet](screenshots/balancesheet.png)
+![Balance Sheet](./Finance%20Model-Forecast-Excel/Screenshots/balancesheet.png)
 
 The Balance Sheet includes:
 
@@ -166,7 +166,7 @@ Working capital balances are calculated using operational drivers such as **DSO,
 
 ## Cash Flow Statement
 
-![Cash Flow Statement](screenshots/cashflow.png)
+![Cash Flow Statement](./Finance%20Model-Forecast-Excel/Screenshots/cashflow.png)
 
 The Cash Flow Statement is linked directly to the Income Statement and Balance Sheet.
 
@@ -194,7 +194,7 @@ Ending cash automatically flows back into the Balance Sheet.
 
 ## Financial Ratios & KPIs
 
-![Financial Ratios & KPIs](screenshots/ratio.png)
+![Financial Ratios & KPIs](./Finance%20Model-Forecast-Excel/Screenshots/ratio.png)
 
 The model calculates key financial metrics including:
 
@@ -214,7 +214,7 @@ The sheet also includes automated model integrity checks.
 
 ## Monthly Forecast
 
-![Monthly Forecast](screenshots/monthly.png)
+![Monthly Forecast](./Finance%20Model-Forecast-Excel/Screenshots/monthly.png)
 
 The annual 2027 Base Budget is converted into a 12-month operating forecast.
 
@@ -238,7 +238,7 @@ The monthly totals are automatically reconciled against the annual budget.
 
 ## Actual vs Budget vs Latest Estimate
 
-![Actual vs Budget vs Forecast](screenshots/actualbudget.png)
+![Actual vs Budget vs Forecast](./Finance%20Model-Forecast-Excel/Screenshots/actualbudget.png)
 This section adds an FP&A-style performance monitoring layer.
 
 Users can enter actual monthly results for:
