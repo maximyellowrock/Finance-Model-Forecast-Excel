@@ -8,7 +8,7 @@ The model is designed to demonstrate practical **FP&A, financial modelling, acco
 
 ## Executive Summary
 
-![Executive Summary](Screenshots/executive.png)
+![Executive Summary](./Finance%20Model-Forecast-Excel/Screenshots/executive.png)
 
 The model starts with a 2026 actual/base year and forecasts financial performance through **2031E**.
 
