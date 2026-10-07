@@ -6,6 +6,13 @@ The model is designed to demonstrate practical **FP&A, financial modelling, acco
 
 ---
 
+## 🎥 Project Demo
+
+[![Watch the Project Demo](https://img.youtube.com/vi/49Tq6aFo3cs/hqdefault.jpg)](https://youtu.be/49Tq6aFo3cs)
+
+**▶ Click the image to watch the full demo**
+---
+
 ## Executive Summary
 
 ![Executive Summary](./Finance%20Model-Forecast-Excel/Screenshots/executive.png)
